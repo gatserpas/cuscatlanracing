@@ -1,0 +1,11 @@
+CUSCATLÁN RACING — ARCHIVOS PARA RENDER
+
+Este es un sitio estático. En Render crea: New > Static Site y conecta el repositorio de GitHub.
+
+Configuración recomendada para este ZIP:
+- Build Command: dejar vacío
+- Publish Directory: .
+
+Para subirlo a GitHub: crea un repositorio, extrae el ZIP y sube TODO el contenido extraído a la raíz del repositorio (incluida la carpeta assets). Después conecta ese repositorio en Render.
+
+El juego guarda las mejoras localmente en el navegador. No necesita servidor Node ni base de datos.
